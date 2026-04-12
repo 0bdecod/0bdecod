@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @0bdecod
-- 👀 I’m interested in Game, C, Python
-- 🌱 I’m currently learning Clang, psychology, calculus, statistics.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m 0bdecod.
+- 👀 I’m interested in C, Python, CyberSecurity.
+- 🌱 I’m currently learning C.
+- 💞️ I’m looking to collaborate on Cybersecurity Project.
 - 📫 How to reach me 0bdecod
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm cooked by CSE.
 
 <!---
 0bdecod/0bdecod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
