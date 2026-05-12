@@ -13,9 +13,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Dev Quote
 
-![0bdecod's GitHub stats](https://github-readme-stats.vercel.app/api?username=0bdecod&show_icons=true&theme=default&hide_border=true)
+![Quote](https://quotes-readme.vercel.app/api/quote?theme=light)
 
 ---
 
