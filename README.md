@@ -15,7 +15,7 @@
 
 ## 💬 Dev Quote
 
-![Quote](https://quotes-readme.vercel.app/api/quote?theme=light)
+"Done is better than perfect"
 
 ---
 
