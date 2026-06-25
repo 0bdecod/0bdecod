@@ -1,6 +1,6 @@
 # Hi, I'm 0bdecod 👋
 
-> Studying for being Cybersecurity Expert
+> Studying for Cybersecurity
 
 ---
 
